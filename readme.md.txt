@@ -22,4 +22,3 @@ Helpful links:
 Happy coding! 🖥️📊
 
 Mateus
-m.oliveiraciftci@gmail.com
